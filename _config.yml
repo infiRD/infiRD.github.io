@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: infiRD.github.io
 description: Bunch of my notes mostly on technical subjects
 
-show_downloads: true
+show_downloads: false
