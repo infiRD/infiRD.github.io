@@ -26,6 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```scala
+val a = 1
+def f(x: Int): Int = x * x
+println f(a)
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
