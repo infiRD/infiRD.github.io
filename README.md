@@ -1,8 +1,9 @@
 ## Scientific computation endeavor
 
-* [Python cheatsheet](python-cheatsheet) - page layout
-* [Another page](another-page) - default layout
-* [Some post](some-post) - post layout
+* [Python cheatsheet](python-cheatsheet)
+* [Cute cats](cats)
+* [Another page](another-page)
+* [Some post](some-post)
 
 lets see if code highlighting works: 
 ```scala
