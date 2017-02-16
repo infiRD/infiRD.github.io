@@ -15,6 +15,6 @@ the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front
 matter. Take a look at the source for this post to get an idea about how it works.
 
 Some cute cats picture:
-![cats.jpg]({{ site.url }}/resources/cats.jpg)
+![cats.jpg]({{ site.url }}resources/cats.jpg)
 
 [back](./)
