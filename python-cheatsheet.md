@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Python cheatsheet
 description: Overview of construction of a website with GitHub Pages
 categories: jekyll update
