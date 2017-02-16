@@ -4,3 +4,6 @@ title: infiRD.github.io
 description: Bunch of my notes mostly on technical subjects
 
 show_downloads: false
+
+highlighter: rouge
+markdown: kramdown
