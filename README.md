@@ -1,32 +1,23 @@
-# Scientific computation endeavor
+# infiRD.github.io
 
-* [Python cheatsheet](python-cheatsheet)
-* [Cute cats](cats)
-* [Another page](another-page)
-* [Some post](some-post)
+Repository containing my second try to forge a place where I can put my 
+random notes and wanabe-blog posts :)
 
-lets see if code highlighting works:
+## Authors
 
-let correct some data
+* **Martin Zamba** - [infiRD](https://github.com/infiRD)
 
+## License
 
-```scala
-var a = 1
-def f(x: Int): Int = x * x
-print f(a)
+All content in the following directories is Copyright (c) Martin Zamba, iNFi R&D.
+You may not reuse anything therein without my permission:
 
-a + 1
-a + 22
-a + 4
-a = 1
-```
+* _posts/
+* resources/
 
-Happy fun highlighting
-[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
+All other content is provided under MIT License
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
+## Based on
 
+* [jekyll](https://github.com/jekyll/jekyll) - Static site generator
+* [Github Pages](https://pages.github.com/)
