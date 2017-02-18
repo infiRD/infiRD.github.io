@@ -7,13 +7,21 @@
 
 lets see if code highlighting works:
 
+let correct some data
+
+
 ```scala
 var a = 1
 def f(x: Int): Int = x * x
 print f(a)
+
+a + 1
+a + 2
+a + 4
+a = 1
 ```
 
-Happy fun highlighting.
+Happy fun highlighting
 [More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
 
 {% highlight ruby %}
@@ -21,3 +29,4 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
+
