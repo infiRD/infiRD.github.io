@@ -16,7 +16,7 @@ def f(x: Int): Int = x * x
 print f(a)
 
 a + 1
-a + 2
+a + 22
 a + 4
 a = 1
 ```
