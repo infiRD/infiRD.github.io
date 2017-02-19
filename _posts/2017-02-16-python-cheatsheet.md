@@ -2,15 +2,13 @@
 layout:      post
 title:       Python cheatsheet
 description: This is a cheatsheet created during my endaevor to learn scientific python computing
-date:        2017-02-15 16:16:01 -0600
+date:        2017-02-15 16:16:01 +0100
 categories:  python scientific
 ---
 
 # {{ page.title }}
 
 [back]({{ site.baseurl }}/)
-
-python_cheatsheet.html
 
 <div id="includedContent"></div>
 <script>
