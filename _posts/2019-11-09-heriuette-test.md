@@ -15,6 +15,7 @@ categories:  blog
 Hello. Here are som cats.
 
 More text.
+Even more text.
 
 <img src="{{ site.url }}{{ site.baseurl }}/resources/images/cats.jpg" alt="cats.jpg">
 
