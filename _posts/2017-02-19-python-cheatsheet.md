@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       Python cheatsheet 2
+title:       Python cheatsheet
 description: This is a cheatsheet created during my endaevor to learn scientific python computing
 date:        2017-02-19 08:16:01 +0100
 categories:  python scientific
